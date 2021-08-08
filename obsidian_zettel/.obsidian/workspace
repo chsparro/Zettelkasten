@@ -1,0 +1,123 @@
+{
+  "main": {
+    "id": "d80705b3b26dc205",
+    "type": "split",
+    "children": [
+      {
+        "id": "d49b9d2bffa82ae7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Base/Мой Zettelkasten.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b7f86eaebf67069f",
+    "type": "split",
+    "children": [
+      {
+        "id": "502430f62cb63e3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72228dd4d59d4e17",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0aa6b9be1f186071",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0418049938e97c23",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c2b10c6956ca179f",
+    "type": "split",
+    "children": [
+      {
+        "id": "59852720151fa9c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94ed8f0ac39cc1a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Base/Мой Zettelkasten.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "079917151e2f4490",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c6ffd041bbdc1660",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Base/Мой Zettelkasten.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d49b9d2bffa82ae7",
+  "lastOpenFiles": [
+    "Base/Мой Zettelkasten.md",
+    "Templates/Untitled.md"
+  ]
+}
