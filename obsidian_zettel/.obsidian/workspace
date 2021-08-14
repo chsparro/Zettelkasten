@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Мой Zettelkasten.md",
+            "file": "Base/Как работает сервер по протоколу CGI.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Мой Zettelkasten.md",
+                "file": "Base/Как работает сервер по протоколу CGI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Мой Zettelkasten.md"
+                "file": "Base/Как работает сервер по протоколу CGI.md"
               }
             }
           }
@@ -117,6 +117,9 @@
   },
   "active": "d49b9d2bffa82ae7",
   "lastOpenFiles": [
+    "Base/Как работает сервер по протоколу CGI.md",
+    "Base/00 web-сервер.md",
+    "Base/Untitled.md",
     "Base/Мой Zettelkasten.md",
     "Templates/Untitled.md"
   ]
