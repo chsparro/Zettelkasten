@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Как работает сервер по протоколу CGI.md",
+            "file": "Base/Alias в Cmder.md",
             "mode": "source"
           }
         }
@@ -60,7 +60,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c2b10c6956ca179f",
@@ -76,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Как работает сервер по протоколу CGI.md",
+                "file": "Base/Alias в Cmder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Как работает сервер по протоколу CGI.md"
+                "file": "Base/Alias в Cmder.md"
               }
             }
           }
@@ -117,10 +118,10 @@
   },
   "active": "d49b9d2bffa82ae7",
   "lastOpenFiles": [
-    "Base/Как работает сервер по протоколу CGI.md",
-    "Base/00 web-сервер.md",
     "Base/Untitled.md",
     "Base/Мой Zettelkasten.md",
+    "Base/Как работает сервер по протоколу CGI.md",
+    "Base/00 web-сервер.md",
     "Templates/Untitled.md"
   ]
 }
