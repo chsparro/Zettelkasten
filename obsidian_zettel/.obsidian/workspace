@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Alias в Cmder.md",
+            "file": "Base/Socket Programming in Python (Guide).md",
             "mode": "source"
           }
         }
@@ -60,8 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c2b10c6956ca179f",
@@ -77,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Alias в Cmder.md",
+                "file": "Base/Socket Programming in Python (Guide).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Alias в Cmder.md"
+                "file": "Base/Socket Programming in Python (Guide).md"
               }
             }
           }
@@ -118,8 +117,12 @@
   },
   "active": "d49b9d2bffa82ae7",
   "lastOpenFiles": [
-    "Base/Untitled.md",
+    "Base/Socket Programming in Python (Guide).md",
     "Base/Мой Zettelkasten.md",
+    "Base/Что такое сервер.md",
+    "Base/00 Сокет.md",
+    "Base/Untitled.md",
+    "Base/Что такое Сокет.md",
     "Base/Как работает сервер по протоколу CGI.md",
     "Base/00 web-сервер.md",
     "Templates/Untitled.md"
