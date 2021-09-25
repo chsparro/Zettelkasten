@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Base/Roadmap для BackEnd разработчика.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -113,7 +113,7 @@
             "id": "3865ad749d8c4ef1",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "empty",
               "state": {}
             }
           }
